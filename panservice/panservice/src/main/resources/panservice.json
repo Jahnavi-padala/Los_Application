@@ -1,0 +1,112 @@
+[
+  {
+    "panNumber": "XYZPD1234K",
+    "fullName": "Padala Jahnavi",
+    "dob": "05-10-2003",
+    "fatherName": "MallikarjunaRao Padala",
+    "status": "Active",
+    "issuedOn": "27-07-2024",
+    "gender": "Female",
+    "category": "Individual",
+    "address": "Vijayawada, Andhra Pradesh"
+  },
+  {
+    "panNumber": "AJCDS1234L",
+    "fullName": "Ramesh Kumar",
+    "dob": "12-01-1990",
+    "fatherName": "Mahesh Kumar",
+    "status": "Active",
+    "issuedOn": "15-03-2015",
+    "gender": "Male",
+    "category": "Individual - Salaried",
+    "address": "Hyderabad, Telangana"
+  },
+  {
+    "panNumber": "QWERP5678L",
+    "fullName": "Anita Sharma",
+    "dob": "30-06-1995",
+    "fatherName": "Dinesh Sharma",
+    "status": "Active",
+    "issuedOn": "10-10-2018",
+    "gender": "Female",
+    "category": "Individual - Business",
+    "address": "Delhi"
+  },
+  {
+    "panNumber": "ASDFG2345Z",
+    "fullName": "Vikram Joshi",
+    "dob": "22-09-1988",
+    "fatherName": "Suresh Joshi",
+    "status": "Inactive",
+    "issuedOn": "05-05-2010",
+    "gender": "Male",
+    "category": "Individual",
+    "address": "Pune, Maharashtra"
+  },
+  {
+    "panNumber": "MNKPR1992N",
+    "fullName": "Meena Kumari",
+    "dob": "14-02-1992",
+    "fatherName": "Rajendra Prasad",
+    "status": "Active",
+    "issuedOn": "11-11-2016",
+    "gender": "Female",
+    "category": "Individual - Salaried",
+    "address": "Ranchi, Jharkhand"
+  },
+  {
+    "panNumber": "AJNPT1985T",
+    "fullName": "Arjun Patel",
+    "dob": "09-12-1985",
+    "fatherName": "Bhavesh Patel",
+    "status": "Active",
+    "issuedOn": "20-01-2014",
+    "gender": "Male",
+    "category": "Individual - Business",
+    "address": "Ahmedabad, Gujarat"
+  },
+  {
+    "panNumber": "XYZJD1234K",
+    "fullName": "Sneha Verma",
+    "dob": "19-07-1999",
+    "fatherName": "Satish Verma",
+    "status": "Active",
+    "issuedOn": "15-06-2022",
+    "gender": "Female",
+    "category": "Individual",
+    "address": "Lucknow, Uttar Pradesh"
+  },
+  {
+    "panNumber": "BNZPR6789K",
+    "fullName": "Ajay Singh",
+    "dob": "01-03-1982",
+    "fatherName": "Rajveer Singh",
+    "status": "Inactive",
+    "issuedOn": "12-12-2008",
+    "gender": "Male",
+    "category": "Individual - Self-Employed",
+    "address": "Bhopal, Madhya Pradesh"
+  },
+  {
+    "panNumber": "ABCDE1234F",
+    "fullName": "Priya Nair",
+    "dob": "17-05-1996",
+    "fatherName": "Naveen Nair",
+    "status": "Active",
+    "issuedOn": "01-01-2020",
+    "gender": "Female",
+    "category": "Individual",
+    "address": "Kochi, Kerala"
+  },
+  {
+    "panNumber": "ABCDS1234L",
+    "fullName": "Rohit Deshmukh",
+    "dob": "25-11-1993",
+    "fatherName": "Manoj Deshmukh",
+    "status": "Active",
+    "issuedOn": "21-07-2017",
+    "gender": "Male",
+    "category": "Individual - Freelancer",
+    "address": "Nagpur, Maharashtra"
+  }
+]

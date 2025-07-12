@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aadhaarRecords>
+    <person>
+        <aadhaarNumber>987698769876</aadhaarNumber>
+        <name>Jahnavi Padala</name>
+        <gender>Female</gender>
+        <dob>2000-01-15</dob>
+        <fatherName>Mallikarjuna Padala</fatherName>
+        <address>
+            <street>123 MG Road</street>
+            <city>Hyderabad</city>
+            <state>Telangana</state>
+            <pincode>500081</pincode>
+        </address>
+    </person>
+    <person>
+        <aadhaarNumber>456745674567</aadhaarNumber>
+        <name>Rahul Sharma</name>
+        <gender>Male</gender>
+        <dob>1995-06-20</dob>
+        <fatherName>Sunil Sharma</fatherName>
+        <address>
+            <street>45 Nehru Street</street>
+            <city>Delhi</city>
+            <state>uttarakhand</state>
+            <pincode>110001</pincode>
+        </address>
+    </person>
+    <person>
+        <aadhaarNumber>123412901234</aadhaarNumber>
+        <name>Anita Verma</name>
+        <gender>Female</gender>
+        <dob>1988-03-05</dob>
+        <fatherName>Suresh Verma</fatherName>
+        <address>
+            <street>7 Rose Avenue</street>
+            <city>Chandigarh</city>
+            <state>Punjab</state>
+            <pincode>160017</pincode>
+        </address>
+    </person>
+    <person>
+        <aadhaarNumber>456789012345</aadhaarNumber>
+        <name>Mohit Kumar</name>
+        <gender>Male</gender>
+        <dob>1990-12-12</dob>
+        <fatherName>Rakesh Kumar</fatherName>
+        <address>
+            <street>9 Sector-10</street>
+            <city>Noida</city>
+            <state>Uttar Pradesh</state>
+            <pincode>201301</pincode>
+        </address>
+    </person>
+    <person>
+        <aadhaarNumber>123412341235</aadhaarNumber>
+        <name>Priya Desai</name>
+        <gender>Female</gender>
+        <dob>1997-07-09</dob>
+        <fatherName>Manoj Desai</fatherName>
+        <address>
+            <street>Flat 101, Hill View</street>
+            <city>Mumbai</city>
+            <state>Maharashtra</state>
+            <pincode>400050</pincode>
+        </address>
+    </person>
+    <person>
+        <aadhaarNumber>678901234567</aadhaarNumber>
+        <name>Karan Singh</name>
+        <gender>Male</gender>
+        <dob>1985-02-22</dob>
+        <fatherName>Vikram Singh</fatherName>
+        <address>
+            <street>12 Park Street</street>
+            <city>Jaipur</city>
+            <state>Rajasthan</state>
+            <pincode>302001</pincode>
+        </address>
+    </person>
+    <person>
+        <aadhaarNumber>123456679012</aadhaarNumber>
+        <name>Sneha Reddy</name>
+        <gender>Female</gender>
+        <dob>1999-11-30</dob>
+        <fatherName>Ajay Reddy</fatherName>
+        <address>
+            <street>56 Banjara Hills</street>
+            <city>Hyderabad</city>
+            <state>Telangana</state>
+            <pincode>500034</pincode>
+        </address>
+    </person>
+    <person>
+        <aadhaarNumber>999988887777</aadhaarNumber>
+        <name>Rohit Mehta</name>
+        <gender>Male</gender>
+        <dob>1994-09-17</dob>
+        <fatherName>Naresh Mehta</fatherName>
+        <address>
+            <street>23 Krishna Nagar</street>
+            <city>Bhopal</city>
+            <state>Madhya Pradesh</state>
+            <pincode>462003</pincode>
+        </address>
+    </person>
+    <person>
+        <aadhaarNumber>123412341734</aadhaarNumber>
+        <name>Kavita Joshi</name>
+        <gender>Female</gender>
+        <dob>2001-04-03</dob>
+        <fatherName>Mahesh Joshi</fatherName>
+        <address>
+            <street>88 MG Circle</street>
+            <city>Indore</city>
+            <state>Madhya Pradesh</state>
+            <pincode>452001</pincode>
+        </address>
+    </person>
+    <person>
+        <aadhaarNumber>123412341234</aadhaarNumber>
+        <name>Vivek Nair</name>
+        <gender>Male</gender>
+        <dob>1987-08-18</dob>
+        <fatherName>Rajan Nair</fatherName>
+        <address>
+            <street>11 Beach Road</street>
+            <city>Kochi</city>
+            <state>Kerala</state>
+            <pincode>682001</pincode>
+        </address>
+    </person>
+</aadhaarRecords>
