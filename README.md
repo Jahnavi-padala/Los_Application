@@ -63,4 +63,4 @@ This project uses a **multi-module** structure:
 
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/los-system.git
+git clone https://github.com/Jahnavi-padala/Los_Application.git
