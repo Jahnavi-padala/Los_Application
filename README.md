@@ -1,25 +1,25 @@
-# 📄 Loan Origination System (LOS)
+#  Loan Origination System (LOS)
 
-## 📌 Overview
+##  Overview
 
 This **Loan Origination System (LOS)** is a robust, modular application built using **Spring Boot (multi-module)** architecture. It streamlines the loan application process by integrating with external services to fetch and verify critical KYC and credit information.
 
 ---
 
-## ⚙️ Key Features
+##  Key Features
 
-- ✅ **Multi-Module Architecture:** Clean separation of concerns with dedicated modules for core business logic, external integrations, and data management.
-- ✅ **External Services Integration:**
+-  **Multi-Module Architecture:** Clean separation of concerns with dedicated modules for core business logic, external integrations, and data management.
+-  **External Services Integration:**
   - **PAN Details Service** — Fetches and verifies PAN information.
   - **Aadhaar Details Service** — Retrieves customer Aadhaar data for identity verification.
   - **CIBIL Management Service** — Obtains customer CIBIL score and credit history to evaluate loan eligibility.
-- ✅ **Loan Eligibility Calculation:** Uses PAN, Aadhaar, and CIBIL data to determine how much loan can be granted to a customer.
-- ✅ **Customer Data Verification:** Validates customer KYC details using trusted external APIs.
-- ✅ **Extensible & Scalable:** Easily add more services or modules as needed.
+-  **Loan Eligibility Calculation:** Uses PAN, Aadhaar, and CIBIL data to determine how much loan can be granted to a customer.
+-  **Customer Data Verification:** Validates customer KYC details using trusted external APIs.
+-  **Extensible & Scalable:** Easily add more services or modules as needed.
 
 ---
 
-## 🗂️ Modules
+##  Modules
 
 This project uses a **multi-module** structure:
 
@@ -31,7 +31,7 @@ This project uses a **multi-module** structure:
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
 1. **Customer submits loan application.**
 2. System fetches:
@@ -47,7 +47,7 @@ This project uses a **multi-module** structure:
 
 ---
 
-## 🔗 Tech Stack
+##  Tech Stack
 
 - **Java 17+**
 - **Spring Boot**
@@ -59,7 +59,7 @@ This project uses a **multi-module** structure:
 
 ---
 
-## 📂 Running the Application
+##  Running the Application
 
 1️⃣ Clone the repository:
 ```bash
